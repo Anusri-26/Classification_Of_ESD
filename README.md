@@ -21,7 +21,7 @@ pip install pandas numpy scikit-learn imbalanced-learn xgboost shap seaborn matp
 ## Usage  
 Clone the repository and run the `ESD.py` script in Python:
 
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/Anusri-26/Classification_Of_ESD)
 cd your-repository
 python ESD.py
 
